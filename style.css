@@ -1,0 +1,28 @@
+body {
+	background-color: lightblue;
+}
+
+.jumbotron {
+	background: url(img/top-image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 50vh;
+	background-position: center center;
+	padding-top: 200px;
+}
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+	color: white!important;
+	margin: 0;
+}
+
+.white-box {
+	background-color: white;
+	padding: 30px;
+	margin-bottom: 50px;
+}
+
+p {
+	font-family: 'Hind Siliguri' ;
+}
